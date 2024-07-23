@@ -1,6 +1,6 @@
 # Hi there, I'm Filmon Asefa! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?filloasefa111=your-github-filloasefa111&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=filloasefa111&color=blueviolet)
 
 ## About Me
 
