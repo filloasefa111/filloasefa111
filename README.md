@@ -15,4 +15,5 @@ I'm a backend developer specializing in Node.js web development. I have experien
 
 
 
-[![Filmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=filloasefa111)](https://github.com/filloasefa111/github-readme-stats)
+![Filmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Falconic7&countshow_icons=true&theme=radical)]
+(https://github.com/filloasefa111/github-readme-stats)
