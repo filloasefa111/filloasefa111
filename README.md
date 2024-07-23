@@ -36,6 +36,11 @@ I'm a backend developer specializing in Node.js web development. I have experien
 - **Description**: A comprehensive system for student registration, exit exam results, grade results, and data fetching from Excel.
 - **Link**: [Project Repository](https://github.com/your-github-username/school-project)
 
+### Inventory Management System
+
+- **Description**: An inventory management system that alerts when a product's quantity is low or exceeds a certain threshold.
+- **Link**: [Project Repository](https://github.com/your-github-username/inventory-management-system)
+
 ### YouTube Channel - Ethiopian Poetry
 
 - **Description**: Sharing my passion for Ethiopian poetry through videos.
