@@ -18,11 +18,6 @@ I'm a backend developer specializing in Node.js web development. I have experien
 [![Filmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=filloasefa111&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/filloasefa111/github-readme-stats)
 
 
-
- # 💫 About Me:
-- 🔭 I’m currently working on enhancing my school project with advanced features and detailed reporting.<br>- 🌱 I’m currently learning more about GitHub and its advanced features.<br>- 👯 I’m looking to collaborate on open-source projects and web development.<br>- 💬 Ask me about Node.js, Express.js, and backend development.<br>- 📫 How to reach me: [Email](filloasefa111.com)<br>- ⚡ Fun fact: I'm also an Ethiopian poet!
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/fillmon.asefa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cavenharisen77/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/asefa_film24563) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@node991) 
 
