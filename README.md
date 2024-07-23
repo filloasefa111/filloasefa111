@@ -12,3 +12,4 @@ I'm a backend developer specializing in Node.js web development. I have experien
 - 💬 Ask me about Node.js, Express.js, and backend development.
 - 📫 How to reach me: [Email](filloasefa111@gmail.com)
 - ⚡ Fun fact: I'm also an Ethiopian poet!
+[![Filmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=filloasefa111)](https://github.com/filloasefa111/github-readme-stats)
