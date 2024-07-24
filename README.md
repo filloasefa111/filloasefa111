@@ -44,7 +44,7 @@ I'm a backend developer specializing in Node.js web development. I have experien
 ### YouTube Channel - Ethiopian Poetry
 
 - **Description**: Sharing my passion for Ethiopian poetry through videos.
-- **Link**: [YouTube Channel]([https://www.youtube.com/channel/your-channel-id](https://www.youtube.com/@falMotivation))
+- **Link**: [YouTube Channel](https://www.youtube.com/@falMotivation)
 
 ### TikTok - Ethiopian Poetry
 
