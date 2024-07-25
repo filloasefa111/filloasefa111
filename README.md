@@ -41,6 +41,10 @@ I'm a backend developer specializing in Node.js web development. I have experien
 - **Description**: An inventory management system that alerts when a product's quantity is low or exceeds a certain threshold.
 - **Link**: [Project Repository](https://github.com/your-github-username/inventory-management-system)
 
+### Booking Hospital Management System
+- **Description: Developed a comprehensive hospital management system to streamline patient bookings, manage patient information, and handle various hospital-related processes. The system features a user-friendly interface for scheduling appointments, maintaining patient records, tracking medical history, and managing staff and resources. It ensures efficient hospital operations and enhances the patient experience by providing a centralized and accessible platform for healthcare management.
+- **Link**: [Project Repository](https://github.com/your-github-username/iBooking-Hospital-Management-System)
+
 ### YouTube Channel - Ethiopian Poetry
 
 - **Description**: Sharing my passion for Ethiopian poetry through videos.
