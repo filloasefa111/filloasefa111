@@ -4,14 +4,13 @@
 
 # 💫 About Me:
 
-I'm a backend developer specializing in Node.js web development. I have experience working on various projects, including ERP systems, inventory management, and school-related projects. I'm also passionate about Ethiopian poetry and have started a YouTube channel and a TikTok account to share my work.
-
+I'm a backend developer specializing in Node.js web development. I have experience working on various projects, including ERP systems, inventory management, and school-related projects. 
 - 🔭 I’m currently working on enhancing my school project with advanced features and detailed reporting.
 - 🌱 I’m currently learning more about GitHub and its advanced features.
 - 👯 I’m looking to collaborate on open-source projects and web development.
 - 💬 Ask me about Node.js, Express.js, and backend development.
 - 📫 How to reach me: [Email](filloasefa111@gmail.com)
-- ⚡ Fun fact: I'm also an Ethiopian poet!
+
 
 
 
@@ -45,15 +44,7 @@ I'm a backend developer specializing in Node.js web development. I have experien
 - **Description: Developed a comprehensive hospital management system to streamline patient bookings, manage patient information, and handle various hospital-related processes. The system features a user-friendly interface for scheduling appointments, maintaining patient records, tracking medical history, and managing staff and resources. It ensures efficient hospital operations and enhances the patient experience by providing a centralized and accessible platform for healthcare management.
 - **Link**: [Project Repository](https://github.com/your-github-username/iBooking-Hospital-Management-System)
 
-### YouTube Channel - Ethiopian Poetry
 
-- **Description**: Sharing my passion for Ethiopian poetry through videos.
-- **Link**: [YouTube Channel](https://www.youtube.com/@falMotivation)
-
-### TikTok - Ethiopian Poetry
-
-- **Description**: Short videos of my Ethiopian poetry performances.
-- **Link**: [TikTok Account](https://www.tiktok.com/@your-tiktok-username)
 
   
 # 📊 GitHub Stats:
